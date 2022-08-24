@@ -61,8 +61,8 @@ def object_detection_image():
             st.subheader('Bar chart for confidence levels')
             st.bar_chart(df["Confidence"]) 
         st.image(img2, caption='Proccesed Image.')
-        cv2.waitKey(0)
-        cv2.destroyAllWindows()
+#        cv2.waitKey(0)
+#        cv2.destroyAllWindows()
         my_bar.progress(100)
 
 

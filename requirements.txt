@@ -7,3 +7,4 @@ torchaudio==0.12.1
 torchvision==0.13.1
 opencv-python-headless
 PyYAML==6.0
+tqdm==4.64.0

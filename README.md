@@ -2,4 +2,4 @@
 Use streamlit+ YOLOv5 to build object detection  
 
 ##Demo
-https://martina-volley-webapp-ml-web-app-xdc2or.streamlitapp.com/ 
+https://martina-volley-webapp-ml-web-app-aie5i6.streamlitapp.com/
